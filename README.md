@@ -9,22 +9,21 @@
 **lucifergotmad's** Contribution Graph
 
 ![My Contribution Graph](https://github.com/lucifergotmad/lucifergotmad/blob/output/github-contribution-grid-snake.gif)
-  
+
  </div>
  
  ---
- 
 
-
-   ![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
+![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
      ```
       {
-        "firstName": "John",
-        "lastName": "Smith",
-        "age": 25
+        "firstName": "Octyo",
+        "lastName": "Paswa Putra",
+        "age": 20,
+        "role": "FullStack Developer"
       }
-      ``` 
+      ```
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
