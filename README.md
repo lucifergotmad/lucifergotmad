@@ -14,9 +14,7 @@
  
  ---
 
-![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
-
-     ```
+      ```
       {
         "firstName": "Octyo",
         "lastName": "Paswa Putra",
@@ -24,6 +22,8 @@
         "role": "FullStack Developer"
       }
       ```
+
+![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
