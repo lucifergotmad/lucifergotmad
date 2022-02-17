@@ -1,4 +1,6 @@
-### Hello there 👋
+![Great Monster](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/img/README.png)
+
+### Gr
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
