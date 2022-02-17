@@ -1,4 +1,4 @@
-![Great Monster](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/img/README.png)
+![Great Monster](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/README.png)
 
 ---
 
