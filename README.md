@@ -10,21 +10,13 @@
 
 ![My Contribution Graph](https://github.com/lucifergotmad/lucifergotmad/blob/output/github-contribution-grid-snake.gif)
 
- </div>
+</div>
  
  ---
 
-:::: {style="display: flex;"}
-
- <div>
-
 ![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
- </div>
-
- <div>
-
-      ```
+     ```
       {
         "firstName": "Octyo",
         "lastName": "Paswa Putra",
@@ -32,8 +24,6 @@
         "role": "FullStack Developer"
       }
       ```
-
- </div>
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
