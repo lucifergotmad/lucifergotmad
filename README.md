@@ -6,9 +6,11 @@
   
 ### _"Don't let the monsters out"_
 
-## L u c i f e r.
+**lucifergotmad's** Contribution Graph
 
-</div>
+![My Contribution Graph](https://github.com/lucifergotmad/lucifergotmad/blob/output/github-contribution-grid-snake.gif)
+  
+ </div>
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
