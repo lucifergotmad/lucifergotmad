@@ -14,7 +14,7 @@
  
  ---
 
- <div float="left">
+:::: {style="display: flex;"}
 
  <div>
 
@@ -34,8 +34,6 @@
       ```
 
  </div>
-
-</div>
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
