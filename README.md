@@ -16,10 +16,10 @@
 
       ```
       {
-        "firstName": "Octyo",
-        "lastName": "Paswa Putra",
+        "fullName": "Octyo Paswa Putra",
+        "role": "FullStack Developer",
+        "techStack": ["JS", "TS", "PHP"],
         "age": 20,
-        "role": "FullStack Developer"
       }
       ```
 
