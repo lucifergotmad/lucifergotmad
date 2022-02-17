@@ -14,9 +14,17 @@
  
  ---
 
+ <div float="left">
+
+ <div>
+
 ![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
-     ```
+ </div>
+
+ <div>
+
+      ```
       {
         "firstName": "Octyo",
         "lastName": "Paswa Putra",
@@ -24,6 +32,10 @@
         "role": "FullStack Developer"
       }
       ```
+
+ </div>
+
+</div>
 
 - 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
