@@ -17,8 +17,14 @@
 
 ![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
-<!-- - 🔭 I’m currently working as Backend Developer
+# Profile
+
+# Tech Stack
+
+# Article
+
+- 🔭 I’m currently working as Backend Developer
 - 🌱 I’m interested learning Golang and DDD Principle
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about anything except PHP aha
-- 📫 How to reach me: amateur.fullstackdev@gmail.com -->
+- 📫 How to reach me: amateur.fullstackdev@gmail.com
