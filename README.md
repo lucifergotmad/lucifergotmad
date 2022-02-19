@@ -64,14 +64,14 @@
 <img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_mongodb.png">
 
 <img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_mysql.png">
+  
+<br>  
+
+<br>
 
 <img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nestjs.png">
 
 <img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nextjs.png">
- 
-<br>  
-
-<br>
 
 <img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nodejs.png">
 
