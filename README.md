@@ -19,7 +19,7 @@
  
 ## 🇮🇩 - Profile
 
-> Hello, I'm **Octyo Pashttps://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_codeigniter.pngwa Putra**, Currently working as <mark>Backend Developer</mark>. I'm interested learning *Golang*, *Kotlin* & *DDD Principle*. I'm really looking forward to collaborate on any *Open Source* Projects. *Let's Sharing Together*.
+> Hello, I'm **Octyo Paswa Putra**, Currently working as <mark>Backend Developer</mark>. I'm interested learning *Golang*, *Kotlin* & *DDD Principle*. I'm really looking forward to collaborate on any *Open Source* Projects. *Let's Sharing Together*.
 
 ### 📚 - Recent Articles
 
