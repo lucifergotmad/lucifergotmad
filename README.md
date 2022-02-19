@@ -17,7 +17,7 @@
  ---
  
  
-# Profile
+## Profile
 
 Hello, I'm Octyo Paswa Putra
 
@@ -31,9 +31,9 @@ Hello, I'm Octyo Paswa Putra
 ![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
 
-# Tech Stack
+## Tech Stack
 
-# Recent Articles
+### Recent Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/0">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/0" alt="Recent Article">
