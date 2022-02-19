@@ -1,4 +1,4 @@
-# Overview
+# 👑 - Overview
 
 ![Great Monster](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/README.png)
 
@@ -17,11 +17,11 @@
  ---
  
  
-## Profile
+## 🇮🇩 - Profile
 
-> Hello, I'm **Octyo Paswa Putra**, Currently working as <mark>Backend Developer</mark>. I'm interested learning *Golang*, *Kotlin* & *DDD Principle*. I'm really looking forward to collaborate on any *Open Source* Projects. *Let's Sharing Together*.
+> Hello, I'm **Octyo Pashttps://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_codeigniter.pngwa Putra**, Currently working as <mark>Backend Developer</mark>. I'm interested learning *Golang*, *Kotlin* & *DDD Principle*. I'm really looking forward to collaborate on any *Open Source* Projects. *Let's Sharing Together*.
 
-### Recent Articles
+### 📚 - Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [3 Rekomendasi Code Editor 2021](https://lucifergotmad.medium.com/3-rekomendasi-code-editor-2021-ec881228c26a?source=rss-968267977812------2)
@@ -31,9 +31,78 @@
 [More articles](https://lucifergotmad.medium.com)
 
 
-### Tech Stack
+### 💻 - Tech Stack
 
-### Connect with me
+<div align="center">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_babel.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_bootstrap.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_codeigniter.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_css-3.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_express.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_go.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_gulp.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_html-5.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_intellij-idea.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_java.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_javascript.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_jquery.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_laravel.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_mongodb.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_mysql.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nestjs.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nextjs.png">
+ 
+<br>  
+
+<br>
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_nodejs.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_phpstorm.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_postgresql.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_pwa.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_react.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_sass.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_swagger.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_tailwindcss-icon.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_visual-studio-code.png">
+
+<img align="left" height="20" src="https://github.com/lucifergotmad/lucifergotmad/blob/main/src/icons/logos_webpack.png">
+  
+</div>
+
+<br>
+
+
+### 📊 - Github Stats
+
+![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
+
+### 🤝 - Connect with me
 
 <div align="center">
 
@@ -52,9 +121,5 @@
 </div>
 
 <br>
-
-### Github Stats
-
-![lucifergotmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucifergotmad&count_private=true&show_icons=true)
 
 
