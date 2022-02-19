@@ -35,10 +35,6 @@ Hello, I'm Octyo Paswa Putra
 
 ### Recent Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/0" alt="Recent Article">
-</a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/1">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@lucifergotmad/1" alt="Recent Article">
-</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
