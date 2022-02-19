@@ -34,6 +34,9 @@ Hello, I'm Octyo Paswa Putra
 ### Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Rekomendasi Code Editor 2021](https://lucifergotmad.medium.com/3-rekomendasi-code-editor-2021-ec881228c26a?source=rss-968267977812------2)
+- [Belajar HTML dari Dasar](https://lucifergotmad.medium.com/belajar-html-dari-dasar-44494776a410?source=rss-968267977812------2)
+- [Basic of the Internet](https://lucifergotmad.medium.com/basic-of-the-internet-a944b2cbf31b?source=rss-968267977812------2)
 <!-- BLOG-POST-LIST:END -->
 
 
