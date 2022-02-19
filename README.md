@@ -52,7 +52,6 @@
 </div>
 
 <br>
-<br>
 
 ### Github Stats
 
