@@ -39,6 +39,15 @@ Hello, I'm Octyo Paswa Putra
 - [Basic of the Internet](https://lucifergotmad.medium.com/basic-of-the-internet-a944b2cbf31b?source=rss-968267977812------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Connect with me
+
+<div float="left">
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://dribbble.com/lucifergotmad)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://dribbble.com/lucifergotmad)
+  
+</div>
 
 ## Tech Stack
 
