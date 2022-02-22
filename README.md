@@ -110,7 +110,7 @@
 
 [<img align="left" alt="dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/lucifergotmad)
 
-[<img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/@lucifergotmahttps://stackoverflow.com/users/18253772/octyo-paswa-putrad)
+[<img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/@lucifergotmad)
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/octyo-paswa-putra-9a64351b6/)
 
