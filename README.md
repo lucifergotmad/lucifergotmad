@@ -121,6 +121,10 @@
 </div>
 
 <br>
+<br>
+<br>
+
+### ❤️ - Bias
 
 ![My Ayangg](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/adsdfad.png)
 
