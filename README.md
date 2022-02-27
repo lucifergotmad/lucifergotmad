@@ -122,6 +122,6 @@
 
 <br>
 
-![My Ayangg](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/)
+![My Ayangg](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/adsdfad.png)
 
 
