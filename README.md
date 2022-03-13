@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### _"Don't let the monsters out"_
+### _"Don't let the monsters ou"_
 
 **lucifergotmad's** Contribution Graph
 
