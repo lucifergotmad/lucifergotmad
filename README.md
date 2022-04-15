@@ -124,7 +124,7 @@
 <br>
 <br>
 
-### ❤️ - GWS Bang
+### ❤️ - Biased
 
 ![My Ayangg](https://github.com/lucifergotmad/lucifergotmad/blob/main/src/images/adsdfad.png)
 
