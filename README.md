@@ -7,7 +7,6 @@
 <div align="center">
   
 ### _"Don't let the monsters out"_
-  
 **lucifergotmad's** Contribution Graph
   
 ![My Contribution Graph](https://github.com/lucifergotmad/lucifergotmad/blob/output/github-contribution-grid-snake.gif)
